@@ -47,8 +47,7 @@ This application transitions standard terminal-based Tic-Tac-Toe logic into a na
 ### Execution Steps
 1. Clone the repository to your local system:
    ```bash
-   git clone [https://github.com/deshyah/Java-Swing-TicTacToe-Engine](https://github.com/deshyah/Java-Swing-TicTacToe-Engine.git)
-   ```
+git clone https://github.com/deshyah/Java-Swing-TicTacToe-Engine.git   ```
 2. Open the project directory in your Java IDE.
 3. Locate `src/TicTacToeRunner.java`.
 4. Run the `main` method in `TicTacToeRunner.java` to launch the application frame.
